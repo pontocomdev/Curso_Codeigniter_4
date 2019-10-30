@@ -12,6 +12,6 @@ O curso é indicado tanto para pessoas que já tinham alguma experiencia com o C
 
 
 *******************
-Link para o Curso com preço promocional
+Link para o Curso com preço promocional: https://www.udemy.com/course/curso-de-codeigniter-4/?referralCode=DD3A8B4C4DC582348319
 *******************
 
